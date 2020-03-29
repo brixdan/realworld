@@ -37,8 +37,8 @@ Alternatively, if you want to make modifications to the theme, check out the [th
 
 # Templates
 
-- [Layout](#layout)
-  - [Header](#header)
+- [Layoutsss](#layout)
+  - [Headerss](#header)
   - [Footer](#footer)
 - [Pages](#pages)
   - [Home](#home)
@@ -52,7 +52,7 @@ Alternatively, if you want to make modifications to the theme, check out the [th
 ## Layout
 
 
-### Header
+### <a name="header">Header</a>
 
 ```html
 <!DOCTYPE html>
