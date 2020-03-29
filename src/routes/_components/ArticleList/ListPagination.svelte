@@ -11,13 +11,13 @@
 		}
 	}
 </script>
-
+page={page}
 {#if articlesCount > 10}
 	<nav>
 		<ul class="pagination">
 
 			{#each range as v}
-				<li class='page-item {v === page ? "active": ""}'>
+				<li class='page-item {v + 1 === page ? "active": ""}'>
 					<a class="page-link" href="/{v ? v + 1 : ''}">{v + 1}</a>
 				</li>
 			{/each}
