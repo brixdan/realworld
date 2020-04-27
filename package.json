@@ -43,7 +43,7 @@
     "svelte-loader": "^2.13.4"
   },
   "now": {
-    "alias": "svelte-realworld.now.sh",
+    "alias": "brixdan-realworld.now.sh",
     "files": [
       "__sapper__",
       "yarn.lock"
